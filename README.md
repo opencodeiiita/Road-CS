@@ -20,9 +20,8 @@
  
  ## Scoring Criteria
  Each task of the week have some points. Everyone can submit the task but evaluation will be based on :
- * First 5 correct PR(Pull Request) will get full marks.
- * Next 5 correct PR(Pull Request) will get three-fourth of that.
- * Next 5 correct PR(Pull Request) will get half of that.
+ * First 3 correct PR(Pull Request) will get full marks.
+ * Next 2 correct PR(Pull Request) will get half of that.
  * Rest will get nothing.
  
  ## Important
