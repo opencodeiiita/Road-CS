@@ -24,13 +24,13 @@ These two would contain moslty all the tools you would ever need for either Wind
 |2| Setting up of Linux OS<sup>b</sup> | 30  |		S	|
 |3| Proxy Setting using export command  | 10  |		C	
 |4| Proxy Setting by adding in .bashrc file  | 20  |	S	|
-|5| SSH tunnelling ( one liner script )<sup>d</sup>  | 20  |	C	|
+|5| SSH tunnelling ( one liner script )<sup>d</sup>  | 10  |	C	|
 |6| One liner to copy a _folder_ to a directory named **week-1** on remote server/vagrant VM  | 30  |	C	|
 |7| SFTP connection to the remote server/ vagrant VM  | 30  |	S	|
 |8| Setting up vagrant VM  | 50  |		G/V	|
 |9| Setting up vagrant Flare-VM  | 50  |		G/V	|
 |10| **BONUS** : Master Question<sup>c</sup>	| 50	|	S	|
-|| **TOTAL** 	| **320**	|
+|| **TOTAL** 	| **310**	|
 
 a) Create two partition of pendrive of equal size and submit screenshots.
 
