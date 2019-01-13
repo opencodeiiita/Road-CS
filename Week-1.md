@@ -30,7 +30,7 @@ These two would contain moslty all the tools you would ever need for either Wind
 |8| Setting up vagrant VM  | 50  |		G/V	|
 |9| Setting up vagrant Flare-VM  | 50  |		G/V	|
 |10| **BONUS** : Master Question<sup>c</sup>	| 50	|	S	|
-|| **TOTAL** 	| **140**	|
+|| **TOTAL** 	| **320**	|
 
 a) Create two partition of pendrive of equal size and submit screenshots.
 
