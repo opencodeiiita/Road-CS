@@ -1,0 +1,1 @@
+ssh -nNT -L 50000:localhost:3306 jm@sampledomain.com
