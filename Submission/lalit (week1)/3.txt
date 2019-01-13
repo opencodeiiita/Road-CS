@@ -1,0 +1,4 @@
+1.$ export http_proxy=http://server-ip:port/
+2.export http_proxy=$http_proxy
+3.export ftp_proxy=$http_proxy
+4.export all_proxy=$http_proxy
