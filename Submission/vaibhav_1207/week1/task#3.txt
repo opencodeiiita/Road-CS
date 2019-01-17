@@ -1,0 +1,4 @@
+export http_proxy="http://userid:pass_word@proxy:port/"
+export https_porxy="https://userid:pass_word@proxy:port/"
+export ftp_proxy="ftp://userid:pass_word@proxy:port/"
+export all_proxy=$"http://userid:pass_word@proxy:port/"
