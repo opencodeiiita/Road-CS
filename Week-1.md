@@ -29,8 +29,7 @@ These two would contain moslty all the tools you would ever need for either Wind
 |7| SFTP connection to the remote server/ vagrant VM  | 30  |	S	|
 |8| Setting up vagrant VM  | 50  |		G/V	|
 |9| Setting up vagrant Flare-VM  | 50  |		G/V	|
-|10| **BONUS** : Master Question<sup>c</sup>	| 50	|	S	|
-|| **TOTAL** 	| **310**	|
+|| **TOTAL** 	| **260**	|
 
 a) Create two partition of pendrive of equal size and submit screenshots.
 
@@ -41,7 +40,6 @@ c) Show the output of `lsof` to show the port is opened and which program is run
 **Sample Output ( I have tunnelled on port 8123 )**
 ![Sample output of lsof -i:8123](https://user-images.githubusercontent.com/17861054/39735433-2e224300-5299-11e8-87c9-101f0979a36b.png)
 
-d) Coming soon..
 
 
 Index	|	|
