@@ -1,0 +1,1 @@
+scp -i/root/puppet -vpc/.vagrant/machines/vpc-ctrli/virtualbox/private-key -p 2201 wwek1.txt vagrant@127.0.0.1
