@@ -15,13 +15,6 @@
 || **TOTAL** 	| **250**	|
 
 
-1 : 
-
-**Sample Output ( for csv file )**
-![Sample output of csv file](https://user-images.githubusercontent.com/17861054/39969781-f97739b6-56fe-11e8-91d5-1ea45ef9ddf3.png)
-
-2 : Find google bot's useragent from the web
-
 
 
 Index	|	|
