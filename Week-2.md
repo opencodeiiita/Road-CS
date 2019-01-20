@@ -28,8 +28,7 @@ G/V	| Gif/Video	|
 
 1. Output of each code should be attached or screenshot.
 2. A few more tasks may be added later.
-3. Download the access.log [here](
-        Road-CS/files/access.log)
+3. Download the access.log [here](https://github.com/opencodeiiita/Road-CS/blob/master/files/access.log)
 
 
 
