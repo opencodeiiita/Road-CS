@@ -3,6 +3,7 @@
 
 
 from zipfile import ZipFile
+import sys
 
 file=input("input file name: ")
 
@@ -14,7 +15,7 @@ while True:
             with ZipFile(filename, 'r') as zip:
                 zip.extractall(pwd=bytes(result, 'utf-8'))
                 print('Done!')
-                exit()
+                sys.exit()
         except:
             pass
     #print(line)
