@@ -1,0 +1,1 @@
+sudo john -w:/test/rockyou.txt /etc/shadow
