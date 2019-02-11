@@ -1,3 +1,7 @@
+#you to download "rockyou.txt".
+#url="https://github.com/brannondorsey/naive-hashcat/releases/download/data/rockyou.txt"
+
+
 from zipfile import ZipFile
 
 file=input("input file name: ")
