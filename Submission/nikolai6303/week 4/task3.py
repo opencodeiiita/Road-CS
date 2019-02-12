@@ -5,17 +5,27 @@
 from zipfile import ZipFile
 import sys
 
-file=input("input file name: ")
+filename=input("input file name: ")
 
-fh = open('rockyou.txt')
-while True:
+fh = open('rockyou.txt', encoding='utf-8', errors='ignore')
+
+x=1
+while x==1:
     line = fh.readline()
-    with ZipFile(file, 'r') as zip:
+    #sys.exit()
+    #preg_replace("/\r|\n/", "",line);
+    line.strip("\n")
+    k=line
+    k = k.replace("\r", "")
+    k = k.replace("\n", "")
+    #print(k)
+    #sys.exit()
+    print(line)
+    with ZipFile(filename, 'r') as zip:
         try:
-            with ZipFile(filename, 'r') as zip:
-                zip.extractall(pwd=bytes(result, 'utf-8'))
-                print('Done!')
-                sys.exit()
+            zip.extractall(pwd=bytes(k, 'utf-8'))
+            print('Done!')
+            x=-1
         except:
             pass
     #print(line)
