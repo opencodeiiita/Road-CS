@@ -20,7 +20,7 @@ while x==1:
     k = k.replace("\n", "")
     #print(k)
     #sys.exit()
-    print(line)
+    #print(line)
     with ZipFile(filename, 'r') as zip:
         try:
             zip.extractall(pwd=bytes(k, 'utf-8'))
@@ -28,7 +28,7 @@ while x==1:
             x=-1
         except:
             pass
-    #print(line)
+    print(line)
     if not line:
         break
 fh.close()
